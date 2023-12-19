@@ -33,7 +33,7 @@ def print_name_with_default (name, surname,alias = "Sin alias"): # Si no pongo p
     print (f"{name} {surname} {alias}") 
 print_name_with_default ("Jose Luis", "Lopez", ) 
 
-def print_texts(*text): # Uso * cuando pongo varios argumentos
+def print_texts(*text): # Uso * cuando pongo varios argume
     print (text)
     
 print_texts("Hola", "Phyton")

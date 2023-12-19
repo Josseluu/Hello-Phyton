@@ -18,5 +18,5 @@ en varias lineas
 print (type ("Soy un dato str")) #Tipo 'str' (string)
 print (type ("5"))  #Tipo 'int'
 print (type ("1.5")) #Tipo 'float'
-print (type ("True")) #Tipo 'bool'
+print (type ("True")) #Tipo 'bool'don
 print (type(print("Mi cadena de texto"))) #Tipo 'NoneType'
